@@ -114,7 +114,7 @@ img {
   color: #2e2f42;
 }
 
-.current:hover::after {
+.current::after {
   content: '';
   position: absolute;
   left: 0;
