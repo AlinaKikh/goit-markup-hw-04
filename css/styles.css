@@ -111,7 +111,7 @@ img {
 
 .current {
   position: relative;
-  color: #2e2f42;
+  color: #404bbf;
 }
 
 .current::after {
